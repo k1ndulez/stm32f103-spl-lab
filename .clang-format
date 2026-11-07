@@ -1,5 +1,5 @@
 # clang-format 配置文件
-# 放置位置：放到【工程根目录】（例如 C:\Users\liangshanyou\Documents\software_F1D\）
+# 放置位置：放到【工程根目录】（例如 C:\Users\liangshanyou\Documents\stm32f103-spl-lab\）
 # 文件名就是 .clang-format（开头那个点不能少）
 # clang-format 会自动向上层目录查找最近的这一份来用
 

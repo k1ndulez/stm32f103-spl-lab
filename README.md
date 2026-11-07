@@ -1,4 +1,4 @@
-# software_F1D — STM32F103 标准库练手工程
+# stm32f103-spl-lab — STM32F103 标准库练手工程
 
 电赛（控制类）软件线的练习工程，用来打通「串口 → 上位机波形」这条链路。
 基于 **ST 标准外设库（StdPeriph）**，不是 HAL / CubeMX 工程。
